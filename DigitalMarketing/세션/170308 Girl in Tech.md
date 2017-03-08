@@ -1,10 +1,11 @@
 Girls in Tech -  @facebook korea
 =================================
-
+  
+  
   
 #트레이닝 세션 - 스몰 비즈니스를 위한 페이스북과 인스타그램 마케팅  
-(By FB Business Development Lead / APAC SMB 한희욱 팀장)
-
+(By FB Business Development Lead / APAC SMB 한희욱 팀장)  
+  
   
   
 ##1. 비즈니스 관리자가 필요한 이유
