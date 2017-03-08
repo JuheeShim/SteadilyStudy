@@ -1,4 +1,6 @@
-GitHub 생활코딩 - working copy, index, repository
+GitHub 
+
+170308 생활코딩 working copy, index, repository
 
 - 프로젝트는 하나의 파일로만 구성되지 않음
 - working copy : 수정된 내역들이 나타나는 곳
