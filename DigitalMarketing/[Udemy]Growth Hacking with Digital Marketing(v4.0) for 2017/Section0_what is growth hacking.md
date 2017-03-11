@@ -1,6 +1,6 @@
- #Section0. What is growth haking?
- 
 
+#Section0. What is growth haking?
+ 
 
 ###Lecture3
 
