@@ -8,7 +8,7 @@ Let's find out more about your audience
 
 ### Lecture6
 Three Growth Marketing Concepts We'll Use Throughout the Course
-- 이번 강좌는 그로스 해킹에 적용하는 마케팅 101에서 세가지 중요한 것을 빠르게 가르친다.
+이번 강좌는 그로스 해킹에 적용하는 마케팅 101에서 세가지 중요한 것을 빠르게 가르친다.
 
 **The first one**
 - About two levels of marketing strategy
@@ -27,3 +27,19 @@ Three Growth Marketing Concepts We'll Use Throughout the Course
 - ex) 1990년대 오가닉 푸드회사들은 왜 오가닉푸드를 사는게 합리적(made sense)인지 이유를 만들었다. 반면, 이미 레스토랑을 가지고 있었지만 사람들은 배고프기 때문에 더 레스토랑을 찾을 수 있는 Yelp나 리뷰 사이트를 만들었다.
 
 ### Lecture7
+마케터는 고객에 대한 이해를 높이고 싶어한다. 고객의 사고방식(mind set)과 행동양식(habit)을 더 알 수록 유용하다. 이번 시간에는 고객의 데이터를 수집할 수 있는 두가지 방식에 대해 배워본다.
+
+**The first one**
+- More traditional way : 양적 데이터(quantitative data)
+- 인구통계학적인 조사는 너의 얼리어답터가 누가 될것인지 구별해내기 쉽다. 이를 통해 그들에게 어필하며 액션을 취하도록 할 수 있다. 또한 이는 B2B 세분화와 광대한 마케팅 플랜을 짜는데 적합하다. 가장 좋은 조사 방법은 *소비자 인터뷰*이다. 
+- 첨부파일의 인터뷰 페이퍼 : 고객의 필수적 요소와 잠재적 필요 요소 구별-> 프로덕트에 도움, 하나는 어떤 부류(목표,스타일)인지 구별 -> 전달 메시지 고안에 도움
+- 이를 바탕으로 패턴을 알아내고 페르소나를 구성해 전략을 짜라
+
+[참고1](https://blog.hubspot.com/insiders/marketing-psychographics)
+[참고2](http://digitalmarketingmagazine.co.uk/digital-marketing-features/psychographic-profiling-identifying-new-levels-of-customer-understanding/787)
+
+
+
+
+
+
