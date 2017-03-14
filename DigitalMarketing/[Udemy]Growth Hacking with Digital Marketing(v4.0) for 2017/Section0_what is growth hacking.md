@@ -1,8 +1,8 @@
 
-#Section0. What is growth haking?
+# Section0. What is growth haking?
  
 
-###Lecture3
+### Lecture3
 
 그로스 해킹이란?
  - spreading something to the right people as quickly as possible and it grows out of the Silicon Valley  marketing mindset
