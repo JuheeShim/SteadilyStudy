@@ -8,7 +8,7 @@
 ~~~~
 print '치킨';
 print '피자';
-print 'We|'ll each have a bowl of soup';
+print 'We\'ll each have a bowl of soup';
 print 'Hi $user'; // Hi $user로 출력
 print "Hi $user"; // Hi Bill로 출력
 ~~~~

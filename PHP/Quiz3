@@ -1,0 +1,23 @@
+//Quiz3
+/*2번 문제의 답안을 수정해 계산서 형식으로 가격을 출력하라*/
+
+<?php
+$hamburger = 4.95;
+$chocomilkshake = 1.95;
+$coke = 0.85;
+$tax_rate = 0.075;
+$tip_rate = 0.16;
+
+$order = $hamberger*2+$chocomilkshake+$coke;
+$tax = $order*$tax_rate;
+$tip = $order*$tip_rate;
+
+$total = $order+$tax+$tip;
+printf("%-9s \$%.2f %d개: \$%5.2f\n",'햄버거',$hamburger,'2',$hamburger*2);
+printf("%-9s \$%.2f %d개: \$%5.2f\n",'쉐이크',$chocomilkshake,'1',$chocomilkshake*1);
+printf("%-8s \$%.2f %d개: \$%5.2f\n",'콜라',$coke,'1',$coke*1);
+printf("%-20s: \$%5.2f\n",'음식',$order);
+printf("%-20s: \$%5.2f\n",'음식+부가세',$order+$tax);
+printf("%-20s: \$%5.2f\n",'음식+부가세+팁',$order+$tax+$tip);
+printf("%-20s: \$%5.2f\n",'총 금액',$order+$tax+$tip);
+?>

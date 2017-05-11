@@ -1,0 +1,12 @@
+//Quiz2
+/*다음 음식들의 총 가격을 계산하는 PHP프로그램을 작성하라.
+햄버거($4.95)두 개, 초콜릿 밀크 쉐이크($1.95)한 잔, 콜라(85센트)한 잔. 부가세율 7.5% 팁으로 세전 가격의 16% 지불*/
+
+<?php
+$hamburger = 4.95;
+$chocomilkshake = 1.95;
+$coke = 0.85;
+$order = $hamberger*2+$chocomilkshake+$coke;
+$total = $order+$order*0.075+$order*0.16;
+print %total;
+?>
