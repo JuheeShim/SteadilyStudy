@@ -1,0 +1,48 @@
+//Quiz5
+/* 증가연산자를 사용해 1부터 5를 출력하고, 조합된 곱셈 연산자를 사용해 2의 제곱수를 2부터 32까지 출력해라 */
+
+<?php
+$add=1;
+$multiply=2;
+
+print $add;
+print "\n";
+++$add;
+
+print $add;
+print "\n";
+++$add;
+
+print $add;
+print "\n";
+++$add;
+
+print $add;
+print "\n";
+++$add;
+
+print $add;
+print "\n";
+print "\n";
+print "\n";
+
+print $multiply;
+print "\n";
+$multiply*=2;
+
+print $multiply;
+print "\n";
+$multiply*=2;
+
+print $multiply;
+print "\n";
+$multiply*=2;
+
+print $multiply;
+print "\n";
+$multiply*=2;
+
+print $multiply;
+print "\n";
+$multiply*=2;
+?>

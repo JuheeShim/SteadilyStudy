@@ -1,1 +1,11 @@
-Quiz4
+//Quiz4
+/*$first_name변수에 이름을 지정하고 $last_name변수에 성을 지정하는 프로그램을 작성하라. 이름과 성이 공백으로 분리된 문자열을 출력하고 이 문자열의 길이도 함께 출력하라.
+*/
+
+<?php
+$first_name='juhee';
+$last_name='shim';
+print $first_name.$last_name;
+print "\n";
+print strlen($first_name.$last_name);
+?>
