@@ -75,17 +75,17 @@ comment// , /* */
 	alert(member[0]);
 	member.length
 
-	*원소추가*
+	**원소추가**
 	member.push('d'); 원소 추가
 	member.concat(['e','f']); 복수의 원소 추가
 	member.unshift('g'); 배열의 시작점에 원소 추가
 	member.splice(2,0,'B') 두번째 인덱스 뒤에 원소 추가
 
-	*원소제거*
+	**원소제거**
 	member.shift(); 배열 첫번째 원소 제거
 	member.pop(); 배열 마지막 원소 제거
 
-	*정렬*
+	**정렬**
 	member.sort(); 정렬
 	member.reverse(); 역순정렬
 
@@ -94,25 +94,25 @@ comment// , /* */
 	객체에는 객체와 함수도 담을 수 있다.
 	키값으로 문자열, 메소드, 숫자가 올 수 있음.
 
-	*객체 만드는 법*
+	**객체 만드는 법**
  	1. var grades = {'a': 10, 'b': 6, 'c': 80};
  	2. var grades = new Object();
  	grades['a'] = 10;
 
- 	*객체 값 가져오기*
+ 	**객체 값 가져오기**
  	grades['a']
  	grades.a
 
- 	*for in 문*
+ 	**for in 문**
  	객체, 배열 안의 값을 모두 가져올때 씀
  	for(key in grades) {
  		console.log(key+grade[key]);
  	}
 
- 	*this*
+ 	**this**
  	소속되어 있는 객체를 가르킴
 
- 	*객체지향프로그래밍*
+ 	**객체지향프로그래밍**
  	서로 연관되어 있는값과 서로 연관되어 있는 처리를 하나의 그릇에 모아 그루핑 하는 방식
 
 
