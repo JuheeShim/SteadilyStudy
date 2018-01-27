@@ -1,11 +1,11 @@
-#javascript
+# javascript
 
-###변수
+### 변수
 var
-###주석
+### 주석
 comment// , /* */
 
-###비교연산자
+### 비교연산자
 	- 동등연산자 ==
 	- 일치연산자 === 데이터형까지 일치해야 함
 	- 부정 != 같지 않다
@@ -15,7 +15,7 @@ comment// , /* */
 
 
 
-###조건문
+### 조건문
 	if(){
 
 	}
@@ -38,12 +38,12 @@ comment// , /* */
 
 	}
 
-###논리연산자
+### 논리연산자
 	- && 좌우항 모두 참이면 true - true&&true
 	- || 좌우항 중 하나만 참이면 true -  true||false
 	- ! Boolean값을 역전시키는 부정의 의미 - !false&&!false
 
-###값이 false로 간주되는 데이터 형
+### 값이 false로 간주되는 데이터 형
 	빈 문자열, undefined, 값이 할당되지 않은 변수,null,NaN
 
 ### *prompt() 구문
@@ -52,7 +52,7 @@ comment// , /* */
 
 
 
-###반복문
+### 반복문
 
 	while(){
 
@@ -63,14 +63,14 @@ comment// , /* */
 
 	}
 
-###반복문 제어
+### 반복문 제어
 	break; 중단
 	continue; 실행은 즉시 중단하면서 반복 지속
 
 
 
 
-###배열
+### 배열
 	var member = ['a','b','c']
 	alert(member[0]);
 	member.length
@@ -90,7 +90,7 @@ comment// , /* */
 	member.reverse(); 역순정렬
 
 
-###객체 (key,value)
+### 객체 (key,value)
 	객체에는 객체와 함수도 담을 수 있다.
 	키값으로 문자열, 메소드, 숫자가 올 수 있음.
 
