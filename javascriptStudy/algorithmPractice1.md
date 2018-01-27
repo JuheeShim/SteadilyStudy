@@ -4,7 +4,7 @@
 num이 짝수일 경우 Even을 반환하고 홀수인 경우 Odd를 반환하도록 evenOrOdd에 코드를 작성해 보세요.
 num은 0이상의 정수이며, num이 음수인 경우는 없습니다.
 
-```
+```javascript
 function evenOrOdd(num) {
   var result = "";
   if (num%2 === 0){  
