@@ -1,11 +1,11 @@
 # javascript
 
 ### 함수의 호출
-	```javascript
-	function func(){
-	}
-	func();
-	```
+```javascript
+function func(){
+}
+func();
+```
 	
 	func는 객체 Function이 가지고 있는 메소드들을 상속한다. 
 
@@ -13,11 +13,14 @@
 **apply**
 	
 ```javascript
-	function sum(arg1, arg2){
-    return arg1+arg2;
-	}
-	alert(sum.apply(null, [1,2]))
-	}
+function sum(arg1, arg2){
+ 	return arg1+arg2;
+}
+	
+
+
+alert(sum.apply(null, [1,2]))
+
 ```
 	apply는 Function의 메서드다.
 	2개의 인자를 가진다. 함수.apply(함수가 실행될 맥락,[함수의인자들])
@@ -27,17 +30,17 @@
 	*this는 함수를 호출할 때 정해진다.
 
 ```javascript
-	o1 = {val1:1, val2:2, val3:3}
-	o2 = {v1:10, v2:50, v3:100, v4:25}
-	function sum(){
-	    var _sum = 0;
-	    for(name in this){ //sum.apply에 변수로 들어간 객체가 암시적으로 this가 된다고 생각하면 된다.
-	        _sum += this[name];
-	    }
-	    return _sum;
-	}
-	alert(sum.apply(o1)) // 6 
-	alert(sum.apply(o2)) // 185
+o1 = {val1:1, val2:2, val3:3}
+o2 = {v1:10, v2:50, v3:100, v4:25}
+function sum(){
+    var _sum = 0;
+    for(name in this){ //sum.apply에 변수로 들어간 객체가 암시적으로 this가 된다고 생각하면 된다.
+        _sum += this[name];
+    }
+    return _sum;
+}
+alert(sum.apply(o1)) // 6 
+alert(sum.apply(o2)) // 185
 ```
 	
 	sum.apply(o1)가 o1.sum의 역할을 한다고 보면 된다.
