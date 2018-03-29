@@ -25,3 +25,4 @@ var func = new Function("x", "y", "return x+y;");
 var a = 'test'; -> 변수
 this.b = 'test'; -> 메서드
 //프로퍼티가 객체의 
+//.은 object access operator이다. (.앞에 있는 것은 객체이다.)
