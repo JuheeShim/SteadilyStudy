@@ -1,26 +1,24 @@
-## <center>부스트코스 웹프로그래밍 Study Plan</center>
+# 부스트코스 웹프로그래밍 Study Plan
 
+[부스트코스](https://www.edwith.org/boostcourse-web/joinLectures/12943)는 네이버 ed-with에서 제공하는 학습 사이트이다.
 
-
-부스트코스는 네이버 ed-with에서 제공하는 학습 사이트이다.
-
-'''python
-
+~~~
 - WebProgramming과정에서는 HTML/CSS, JavaScript, JAVA, Spring, Spring MVC, Spring JDBC, SQL에 대해 이해할 수 있다.
 - 프론트엔드, 백엔드를 두루 경험할 수 있다.
 - 일주일에 10시간씩, 6개월간 꾸준히 학습을 권장한다.
-
-'''
+~~~
 
 
 
 2019년 1월 1일부터 6월 31일까지 **6개월간 주 10시간 학습을 목표**로 학습을 진행할 예정이다.
 
+---
 
 
-##Study Plan
 
-###1. 웹프로그래밍 기초
+## Study Plan
+
+### 1. 웹프로그래밍 기초
 
 **0. Hello!**
 
