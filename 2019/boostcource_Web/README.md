@@ -66,6 +66,8 @@
 - [X] 3) CSS Selector
 
 - [X] 4) CSS 기본 Style 변경하기
+  > *완료일 : 20190117*
+
 
 - [ ] 5) Element가 배치되는 방법(CSS layout)
 
