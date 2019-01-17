@@ -63,9 +63,9 @@
 - [X] 2) 상속과 우선순위 결정
   > *완료일 : 20190115*
 
-- [ ] 3) CSS Selector
+- [X] 3) CSS Selector
 
-- [ ] 4) CSS 기본 Style 변경하기
+- [X] 4) CSS 기본 Style 변경하기
 
 - [ ] 5) Element가 배치되는 방법(CSS layout)
 
