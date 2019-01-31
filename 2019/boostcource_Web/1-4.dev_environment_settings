@@ -1,0 +1,24 @@
+# Development environment settings
+
+
+
+## 1) JDK(Java SE Development kit) 다운받기 및 설치
+	- JDK(Java SE Development Kit) : JAVA언어로 작성된 소스를 컴파일하고 관리할 필요가 있을때 사용되는 도구. JRE 포함.
+	- JRE((Java SE Runtime Environment): JAVA언어로 작성된 프로그램을 실행하기 위해 필요한 것
+	- 오라클 사이트에서 무료로 다운로드하여 설치할 수 있다.
+
+## 2) 환경설정하기
+설치 후 JDK에 대한 시스템 환경설정을 해야한다.
+
+**설정해야 할 환경변수**
+- JAVA_HOME : JAVA가 설치된 경로를 지정
+- CLASSPATH : JAVA 클래스가 있는 경로들을 지정
+- PATH : JAVA 실행파일이 있는 경로를 추가
+
+```
+cd /Library/Java/JavaVirtualMachines
+```
+
+- 발생한 문제 : sudo -su로 관리자 권한 설정시 not command발생
+
+~1/31
